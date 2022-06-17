@@ -211,7 +211,6 @@ function doWhile(numero) {
   } while (i < 8);
   return a;
 }
-doWhile(1);
 
 // No modificar nada debajo de esta línea
 // --------------------------------
